@@ -1,9 +1,9 @@
-# Adarsh Vaderobli - portfolio
+# **Adarsh Vaderobli - portfolio**
 
 
-## *AI/ML Projects*
+## ***AI/ML Projects***
 
-  1.Image Detection:
+  1.**Image Detection**:
    - *Trained Convolutional Neural Network to identify dog breeds.*
    -  *Project URL:*
   
