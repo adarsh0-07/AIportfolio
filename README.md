@@ -1,7 +1,5 @@
-# **Adarsh Vaderobli - portfolio**
 
-
-## ***AI/ML Projects***
+# ***AI/ML Projects***
 
 
 1.***Image Detection:***
