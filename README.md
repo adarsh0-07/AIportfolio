@@ -7,4 +7,4 @@
    - *Trained Convolutional Neural Network to identify dog breeds.*
    -  *Project URL:*
   
-  2. 
+  
