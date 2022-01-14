@@ -35,3 +35,11 @@
 7.***Siamese Networks:***
 - *Sequence Models with Twin Network Architecture.*
 - *Project URL:*
+
+
+
+# ***Optimization Projects***
+
+1.***Stochastic Optimization:***
+- *Sequence Models with Twin Network Architecture.*
+- *Project URL:*
