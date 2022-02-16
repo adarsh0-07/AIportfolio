@@ -19,7 +19,7 @@
 
 4.***Siamese Networks:***
 - *Sequence Models with Twin Network Architecture.*
-- *Project URL:*
+- *Project URL:https://adarsh0-07.github.io/quora_duplicates/*
 
 
 5.***Question-Answering:***
