@@ -4,7 +4,7 @@
 
 1.***Image Detection:***
 - *Trained Convolutional Neural Network to identify dog breeds.*
--  *Project URL:*
+-  *Project URL:https://adarsh0-07.github.io/dog-breed-identification/*
   
   
 2.***Forecasting:***
