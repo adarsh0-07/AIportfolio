@@ -9,7 +9,7 @@
   
 2.***Forecasting:***
 - *Realized Volatility Prediction*
--  *Project URL:*
+-  *Project URL:https://adarsh0-07.github.io/Forecasting/*
 
 
 3.***Chess Game***:
