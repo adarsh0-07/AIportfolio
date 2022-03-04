@@ -52,4 +52,4 @@
 
 3.***Traveling Salesmen:***
 - *Optimization under Uncertainty to Reduce the Cost of Energy for Parabolic Trough Solar Power Plants for Different Weather Conditions*
-- *Paper URL: https://www.mdpi.com/1996-1073/13/12/3131*
+- *Project URL: https://www.kaggle.com/c/traveling-santa-2018-prime-paths/overview*
