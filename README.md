@@ -40,6 +40,6 @@
 
 # ***Optimization Projects***
 
-1.***Stochastic Optimization:***
-- *Sequence Models with Twin Network Architecture.*
-- *Project URL:*
+1.***Optimization under Uncertainity:***
+- *Optimization under Uncertainty to Reduce the Cost of Energy for Parabolic Trough Solar Power Plants for Different Weather Conditions*
+- *Paper URL: https://www.mdpi.com/1996-1073/13/12/3131*
